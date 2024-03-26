@@ -1,2 +1,2 @@
 # odin-recipes
-TOP project
+TOP project practising HTML knowledge by building a a basic recipe website. 
